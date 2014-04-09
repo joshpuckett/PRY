@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB69097F-BCAD-4444-B6F0-18882BB2F9C8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PRY</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67C7F084-781F-468C-BF3F-95678D7A2765</key>
+		<string>ssh://github.com/joshpuckett/PRY.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PRY.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67C7F084-781F-468C-BF3F-95678D7A2765</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/joshpuckett/PRY.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67C7F084-781F-468C-BF3F-95678D7A2765</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67C7F084-781F-468C-BF3F-95678D7A2765</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PRY</string>
+		</dict>
+	</array>
+</dict>
+</plist>

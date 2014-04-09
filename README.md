@@ -7,7 +7,7 @@ PRY and QCDeviceInfo allow you to easily and rapidly design interactions that ta
 
 Video here: https://www.dropbox.com/s/ybalgw6b863gl2c/qcdeviceinfo.mov
 
-Tilt-to-view composition: https://www.dropbox.com/s/pln6yj54ab6ksep/tilttoview.qtz
+Tilt-to-view example composition: https://www.dropbox.com/s/pln6yj54ab6ksep/tilttoview.qtz
 
 ![Tilt-to-view-photo](https://photos-5.dropbox.com/t/0/AABeJbnraWlDHdtPiLLqoWtvKyWHlTcCA2szF3bgSZqyig/12/144234624/png/2048x1536/3/1397012400/0/2/Screenshot%202014-04-08%2018.28.55.png/yVQ4wqSGJ4S3qBkM21D9n--_X0vBFa15UafgPXPZi8A)
 

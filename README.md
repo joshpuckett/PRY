@@ -6,6 +6,7 @@ PRY is an app that sends device info to Quartz Composer. It communicates using P
 PRY and QCDeviceInfo allow you to easily and rapidly design interactions that take advantage of the iPhone's device info like rotation or accelerometer data, such as Facebook Paper's tilt-to-view-photo interaction: 
 
 Video here: https://www.dropbox.com/s/ybalgw6b863gl2c/qcdeviceinfo.mov
+
 Tilt-to-view composition: https://www.dropbox.com/s/pln6yj54ab6ksep/tilttoview.qtz
 
 ![Tilt-to-view-photo](https://photos-5.dropbox.com/t/0/AABeJbnraWlDHdtPiLLqoWtvKyWHlTcCA2szF3bgSZqyig/12/144234624/png/2048x1536/3/1397012400/0/2/Screenshot%202014-04-08%2018.28.55.png/yVQ4wqSGJ4S3qBkM21D9n--_X0vBFa15UafgPXPZi8A)
